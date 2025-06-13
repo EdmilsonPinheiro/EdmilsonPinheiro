@@ -3,6 +3,6 @@
 
 
 
-- 🌱 I’m currently learning Java,SpringFramework,PostgreSQL e Postman.
+- 🌱 I’m currently learning Java,SpringFramework,PHP,CodeIgniter4,PostgreSQL,MySQL e Postman.
 - 📫 How to reach me: https://www.linkedin.com/in/edmilson-junior-1a5810220/
 
